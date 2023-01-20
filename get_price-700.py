@@ -61,7 +61,7 @@ for i in range (1):
 
 print(time.time()-t)
 
-a = open('t.txt','w')
+a = open('data.txt','w')
 a.write(str(coins)+'\n'+str(prices)) 
 a.close     
 print(len(coins))
