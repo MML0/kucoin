@@ -1,2 +1,2 @@
 # kocoin
-extracting data from kocoin
+extracting data from kucoin
