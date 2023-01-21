@@ -69,7 +69,7 @@ for i in range (5):
     all_data += [prices,time.time()]
     time.sleep(2)
 
-csv_data = str(coins)[1:-1] + ', time , time\n' + csv_data
+csv_data = str(coins)[1:-1] + ', time , time (s)\n' + csv_data
 
 
 
