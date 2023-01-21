@@ -1,2 +1,2 @@
 # kocoin
-extracting data from kucoin
+extracting data from kucoin with selenium 
